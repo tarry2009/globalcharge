@@ -10,7 +10,8 @@ Zend Engine v3.3.11, Copyright (c) 1998-2018 Zend Technologies
 PHPUnit 9.2.6 by Sebastian Bergmann and contributors.
 
 ## How to run code:
-access in browser index.php or on cli mode type:
+Just download the code then you must have installed php on your system and then go into main code folder then
+access in browser http://localhost/globalcharge/index.php or on cli mode type:
 <pre>php index.php</pre>
 
 ## How to run test:
